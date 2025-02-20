@@ -7,6 +7,9 @@ The objective is to identify and fix bugs, refactor the code, and improve the im
 This event is designed to sharpen debugging skills, enhance problem-solving abilities, and promote clean coding practices. Whether you’re a beginner learning the ropes of debugging or an experienced coder refining your skills, the Bug Hunt is the perfect playground to test your expertise and improve real-world codebases!
 
 - Instructions to setup **Day 1-2** are in the file `Day_1-2/SETUP.md`
+- Instructions to setup **Day 3** are in the file `Day-3/SETUP.md`
+
+**Note**: Day 3 focuses on testing your debugging skills in the **backend**.
 
 ### Rules
 
